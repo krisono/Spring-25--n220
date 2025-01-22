@@ -6,7 +6,7 @@ Websites are informational content like cnn.com, that can be browsed while web a
 
 ### VS Code & Extensions
 
-1. Vs code is what allows you to open up your terminal and sore/write code. Vs extensions like markdown work like web apps that can assist you in writing code or making changes to make it faster.
+1. Vs code is what allows you to open up your terminal and store/write code. Vs extensions like markdown work like web apps that can assist you in writing code or making changes to make it faster.
 
 ### Version Control, Git, & GitHub
 
