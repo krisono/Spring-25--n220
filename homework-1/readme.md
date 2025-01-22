@@ -2,7 +2,7 @@
 
 ### Websites vs Web Applications
 
-Websites are informational content like cnn.com, that can be browsed while web aps are applications that can store personal information like Tiktok. You can also fin web apps on the app store a lot of times. 
+Websites are informational content like cnn.com, that can be browsed while web aps are applications that can store personal information like Tiktok. It acts like a tool you can interact with and do tasks with. You can also find web apps on the app store a lot of times. 
 
 ### VS Code & Extensions
 
