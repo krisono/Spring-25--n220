@@ -2,7 +2,7 @@
 
 ## Weekly Recap
 
-What you learn?
+I learned about how external and internal directories work. I also learnt the difference between string and numbers. String is something like console.error('Dinner Time!') while number is actual numbers like console.log(20). I also learn boolean type is used for true false statements. 
 
 **Live links**
 
