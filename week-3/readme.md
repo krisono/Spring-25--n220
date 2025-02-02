@@ -1,7 +1,7 @@
 ## Assignment 3
 
 ### Weekly recap
-*Hello evryone its **ME***
+*Hello evryone its **ME***,
 I learnt about how to appropriately declare variables.
 I also leart how to make equations and have the computer do the work for me.
 
