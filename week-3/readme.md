@@ -4,7 +4,7 @@
 *Hello evryone its **ME***,
 I learnt about how to appropriately declare variables.
 I also leart how to make equations and have the computer do the work for me.
-
+I learnt how to round up numbers and redeclare equations.
 ### Live link
 
 
