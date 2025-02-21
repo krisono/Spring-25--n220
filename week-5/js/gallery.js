@@ -17,5 +17,5 @@ for (let i = 0; i < googleLinkRef.length; i++) {
     img.setAttribute('src', googleLinkRef[i])
     img.setAttribute('alt', 'Image #' + (i + 1)) 
     img.height = 300;
-    gallery.appendChild(img);
+    googleLink.appendChild(img);
 }
