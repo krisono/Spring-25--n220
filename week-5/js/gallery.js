@@ -9,7 +9,7 @@ const googleLinkRef = ['https://fastly.picsum.photos/id/804/300/400.jpg?hmac=Y6c
     'https://fastly.picsum.photos/id/229/300/400.jpg?hmac=CZOWn8sQ8oa9EfbMZw5tYqPMNKK0mNOYUsEgz81K8io', 
     'https://fastly.picsum.photos/id/211/300/400.jpg?hmac=l0zi1AkBxaPoAMnWav0iWH8TsWfblHXdm_IGSNDMFWQ'
 ];
-const googleLink = document.querySelector('#gallery');
+const googleLink = document.querySelector('gallery');
 console.log(googleLink);
 
 for (let i = 0; i < googleLinkRef.length; i++) {
@@ -17,5 +17,5 @@ for (let i = 0; i < googleLinkRef.length; i++) {
     img.setAttribute('src', googleLinkRef[i])
     img.setAttribute('alt', 'Image #' + (i + 1)) 
     img.height = 300;
-    googleLink.appendChild(img);
+    gallery.appendChild(img);
 }
