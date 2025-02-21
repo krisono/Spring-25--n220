@@ -1,0 +1,17 @@
+/* styles Nav*/
+
+nav {
+    background-color: green;
+    height: 50px;
+
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    padding: 8%;
+}

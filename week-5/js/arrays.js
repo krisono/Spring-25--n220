@@ -32,7 +32,7 @@ for (let i = 0; i<zodiacSigns.length; i++) {
 
 let whileI = 0;
 while (whileI < zodiacSigns.length) {
-    console.log("Whiel loop:", zodiacSigns[whileI]);
+    console.log("While loop:", zodiacSigns[whileI]);
     whileI++;
 }
 

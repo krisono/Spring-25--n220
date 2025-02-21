@@ -1,4 +1,4 @@
-const Instrument = [
+const instruments = [
     'Piano',
     'Guitar',
     'Violin',
@@ -7,12 +7,15 @@ const Instrument = [
     'Flute',
 ];
 
-const ul = document.getElementsById("Instruments");
+const ul = document.getElementById("Instruments");
 
-for (let i = 0; i < ul.length; i++) {
-    const li = document.createElement(li);
-    li.textContent = Instrument[i];
-    ul.removeChild(li);}
+for (let i = 0; i < instruments.length; i++) 
+    {
+    const li = document.createElement("li");
+    li.textContent = instruments[i];
+    ul.appendChild(li);
+}
+
 
 /*ulRef.innerHTML ="<li class="Instruments">Piano</li>";
 ulRef.innerHTML ="<li class="Instruments">Guitar</li>";
