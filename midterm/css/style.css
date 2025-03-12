@@ -1,0 +1,28 @@
+cart {
+    border: 1px solid black;
+    padding: 20px;
+}
+
+li {
+    list-style-type: none;
+    margin: 5px;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(83, 173, 83);
+    color: white;
+    padding: 9px 14px;
+    margin: 7px 0;
+    border: none;
+    cursor: pointer;
+    width: 2%;
+}

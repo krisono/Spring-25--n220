@@ -1,7 +1,8 @@
 
 ## Group Events
+Midterm to demonstrate their understanding of topics covered in this course
 
 ### Live Link
 
-[Home Page](https://github.io/Spring-25--n220/tree/main/midterm/menu.html)
+[Home Page](https://krisono.github.io/Spring-25--n220/midterm/menu.html)
 
