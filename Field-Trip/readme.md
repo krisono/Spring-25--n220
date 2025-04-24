@@ -2,7 +2,7 @@
 
 ### Project Summary
 
-My project is going to be about having a better system. This system will allow users to navigae through the museum options easily. 
+My project is going to be about having a better system. This system will allow users to navigae through the museum options easily. I chose this topic because some pof the screens at the museum wasnt working properly and was glicthy as well.
 
 ### Core Webpages
 
